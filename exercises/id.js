@@ -7,7 +7,9 @@
  */
 
 // Your code :
-
+const id = (truc) => {
+    return truc;
+}
 //* Begin of tests
 const assert = require('assert')
 
